@@ -10,13 +10,7 @@ Most of the applications are written in Delphi and Python.
 
 GUI applications are coded in Delphi.
 Preventing closing of applications is designed that way:
-(OnClose event assigned to FormClose procedure)
-FormClose
- Self.Hide;
- WindowState := wsMinimized;
- TrayIcon1.Visible := False;
+http://textuploader.com/dtoqf
 
- ShowWindow(Application.Handle, SW_Hide);
- abort;
 #http://youtube.com/Volvo2v1
 #knghx@mail2tor.com
