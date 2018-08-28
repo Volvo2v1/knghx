@@ -38,7 +38,7 @@ end;
 
 procedure TForm2.Button2Click(Sender: TObject);
 begin
- //Image1.Visible:= false;
+ // - fake pic Image1.Visible:= false; 
  Sleep(2750);
  ShowMessage('Host is offline!');
 
